@@ -23,6 +23,13 @@ class Crud_mdl extends CI_Model {
 		return $rows->result();	
 	}
 
+	/**
+	 * [get_type_name_by_id description]
+	 * @param  [type] $type    [description]
+	 * @param  string $type_id [description]
+	 * @param  string $field   [description]
+	 * @return [type]          [description]
+	 */
 	function get_type_name_by_id($type, $type_id = '', $field = 'name')
     {
         if ($type_id != '') {

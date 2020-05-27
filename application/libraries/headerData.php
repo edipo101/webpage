@@ -10,7 +10,7 @@ class HeaderData {
 	public $working_time = 'Lun - Sab: 09:00 - 21:00';
 
 	// header middle
-	public $logo = 'logo.png';
+	public $logo = 'logo3.png';
 	public $cart_total_price = 50.53;
 
 	// main menu

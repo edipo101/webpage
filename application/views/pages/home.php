@@ -9,7 +9,7 @@
 		<?php $this->load->view('pages/blocks/wrapper/page_wrapper'); ?>        
 
         <!-- latest product start -->
-		<?php $this->load->view('pages/blocks/latest_product'); ?>                
+		<?php $this->load->view('pages/blocks/product_list5', $latest_product); ?>                
 		
 		<!-- page/home end -->
         

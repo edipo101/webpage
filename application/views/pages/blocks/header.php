@@ -80,8 +80,8 @@
                                             <i class="fa fa-truck"></i>
                                         </div>
                                         <div class="shipping-content">
-                                            <h5>free shipping</h5>
-                                            <span>On order over $199</span>
+                                            <h5>envío gratis</h5>
+                                            <span>En pedidos superiores a Bs 20</span>
                                         </div>
                                     </div> <!-- end single shipping -->
                                     <div class="single-block-shipping">
@@ -89,17 +89,17 @@
                                             <i class="fa fa-money"></i>
                                         </div>
                                         <div class="shipping-content">
-                                            <h5>money back 100%</h5>
-                                            <span>Within 30 Days after delivery</span>
+                                            <h5>Devolución del 100%</h5>
+                                            <span>Dentro de los 30 días posteriores a la entrega</span>
                                         </div>
                                     </div> <!-- end single shipping -->
                                 </div>
                                 <div class="header-middle-block">
                                     <div class="header-middle-searchbox">
-                                        <input type="text" placeholder="Search...">
+                                        <input type="text" placeholder="Buscar...">
                                         <button class="search-btn"><i class="fa fa-search"></i></button>
                                     </div>
-                                    <div class="header-mini-cart">
+                                    <!-- <div class="header-mini-cart">
                                         <div class="mini-cart-btn">
                                             <i class="fa fa-shopping-cart"></i>
                                             <span class="cart-notification">2</span>
@@ -143,7 +143,7 @@
                                                 <a href="#">checkout</a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

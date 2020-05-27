@@ -1,4 +1,4 @@
-		<!-- product details wrapper start -->
+        <!-- product details wrapper start -->
         <div class="product-details-wrapper">
             <div class="container">
                 <div class="row">

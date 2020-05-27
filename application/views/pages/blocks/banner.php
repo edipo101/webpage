@@ -23,7 +23,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 order-2 order-md-3">
                         <div class="img-container img-full fix">
                             <a href="#">
-                                <img src="<?= base_url(); ?>assets/img/banner/banner_static_top3.jpg" alt="">
+                                <img src="<?= base_url(); ?>assets/img/banner/banner_static_top30.jpg" alt="">
                             </a>
                         </div>
                     </div>
